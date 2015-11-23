@@ -3,8 +3,8 @@ a Youtube, Album art (Thumbnail) grabbing script. Utilizes lame, youtube-dl, wge
 
 youtube-dl : https://rg3.github.io/youtube-dl/
 
-lame : lame.sourceforge.net/
+lame : https://lame.sourceforge.net/
 
-wget (Windows) : gnuwin32.sourceforge.net/packages/wget.htm
+wget (Windows) : https://gnuwin32.sourceforge.net/packages/wget.htm
 
 ImageMagick : http://www.imagemagick.org/script/index.php
